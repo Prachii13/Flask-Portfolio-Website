@@ -1,0 +1,14 @@
+flask_portfolio_website/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── /templates
+│   ├── index.html
+│   ├── about.html
+│   ├── contact.html
+│   └── projects.html
+└── /static
+    └── /css
+        └── style.css
